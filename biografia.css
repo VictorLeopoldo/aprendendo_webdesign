@@ -6,8 +6,20 @@ body {
 }
 h1 {
     text-align: center;
-    color: blue;
+    color: #070769f8;
     font-size: 44px;
-    background-color: #80808080;
-    text
+    background-color: #9ea8e680;
+    padding: 10px;
+}
+.center {
+    text-align: center;
+    font-size: 18px;
+}
+h2 {
+    font-size: 22px;
+    color: #070769f8;
+    background-color:#9ea8e680;
+    margin-bottom: 20px;
+    border-bottom:3px solid;
+    padding: 10px;
 }
