@@ -39,3 +39,17 @@ li {
     font-size: 18px;
     list-style: square;
 }
+a:hover{
+    color:#28b5ec;
+    text-decoration: none;
+    background-color: bisque;
+    padding: 10px;
+}
+a:link{
+    text-decoration: none;
+    color: black;    
+}
+a:visited{
+    text-decoration: none;
+    color: #111314;    
+}
